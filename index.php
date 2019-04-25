@@ -13,7 +13,7 @@
     <meta name="description" content="" />
     <meta name="keywords" content="" />
 
-    <title>Christopher Harvey | Resume</title>
+    <title>Christopher Harvey</title>
     <!-- Apple Touch Icon -->
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
     <!-- Google Font -->
