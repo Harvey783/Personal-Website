@@ -163,7 +163,8 @@ a {
           opacity: 1; }
     #about #intro-div p {
       padding: 0 5%;
-      margin: 32px 0; }
+      margin: 32px 0;
+      font-size: 18px; }
     #about #intro-div .btn {
       width: 180px;
       height: auto;
