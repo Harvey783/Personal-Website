@@ -782,7 +782,7 @@
               >
                 <li>
                   <i class="ion-android-call center-block"></i>
-                  <span>+610 - 613 - 8734</span>
+                  <span>610 - 613 - 8734</span>
                 </li>
                 <br />
                 <li>
@@ -793,7 +793,7 @@
                 <li>
                   <i class="ion-ios-location center-block"></i>
                   <span
-                    >1337 Pine St <br />Apt 401<br />
+                    >1337 Pine St <br />
                     Philadelphia, PA 19107</span
                   >
                 </li>
