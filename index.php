@@ -293,7 +293,7 @@
                     <p class="sub-heading">
                       Syracuse University
                     </p>
-                    <p class="sub-heading">2006</p>
+                    <p class="sub-heading">2002 - 2006</p>
                     <!-- Job Summary -->
                     <p class="content-p">
                       B.S. Marketing
