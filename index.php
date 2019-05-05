@@ -338,7 +338,7 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Market Research<span>80%</span></p>
+                <p>Research<span>80%</span></p>
                 <div class="progress skill-progress" data-percent="80%">
                   <div class="determinate skill-determinate">
                     <i
@@ -351,8 +351,8 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Investment Analysis<span>90%</span></p>
-                <div class="progress skill-progress" data-percent="90%">
+                <p>Website Design<span>85%</span></p>
+                <div class="progress skill-progress" data-percent="85%">
                   <div class="determinate skill-determinate">
                     <i
                       class="skill-determinate-circle fa fa-circle"
@@ -364,7 +364,7 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Graphic Design<span>80%</span></p>
+                <p>Photoship<span>80%</span></p>
                 <div class="progress skill-progress" data-percent="80%">
                   <div class="determinate skill-determinate">
                     <i
@@ -423,8 +423,8 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Strategic Thinking<span>80%</span></p>
-                <div class="progress skill-progress" data-percent="80%">
+                <p>Time Management<span>90%</span></p>
+                <div class="progress skill-progress" data-percent="90%">
                   <div class="determinate skill-determinate">
                     <i
                       class="skill-determinate-circle fa fa-circle"
@@ -470,8 +470,8 @@
               <h5 class="text-center skill-title">Technical</h5>
 
               <div class="skill-progress-div">
-                <p>JavaScript<span>90%</span></p>
-                <div class="progress skill-progress" data-percent="90%">
+                <p>JavaScript<span>80%</span></p>
+                <div class="progress skill-progress" data-percent="80%">
                   <div class="determinate skill-determinate">
                     <i
                       class="skill-determinate-circle fa fa-circle"
@@ -496,8 +496,8 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Rails<span>70%</span></p>
-                <div class="progress skill-progress" data-percent="70%">
+                <p>Rails<span>75%</span></p>
+                <div class="progress skill-progress" data-percent="75%">
                   <div class="determinate skill-determinate">
                     <i
                       class="skill-determinate-circle fa fa-circle"
@@ -509,8 +509,8 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Redux<span>70%</span></p>
-                <div class="progress skill-progress" data-percent="70%">
+                <p>Redux<span>75%</span></p>
+                <div class="progress skill-progress" data-percent="75%">
                   <div class="determinate skill-determinate">
                     <i
                       class="skill-determinate-circle fa fa-circle"
@@ -522,8 +522,8 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>HTML & CSS Frameworks<span>80%</span></p>
-                <div class="progress skill-progress" data-percent="80%">
+                <p>HTML & CSS Frameworks<span>90%</span></p>
+                <div class="progress skill-progress" data-percent="90%">
                   <div class="determinate skill-determinate">
                     <i
                       class="skill-determinate-circle fa fa-circle"
