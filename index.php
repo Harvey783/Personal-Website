@@ -149,14 +149,10 @@
                   ></a>
                 </li>
               </ul>
-              <p class="text-center">
+              <h5 class="text-center">
                 Full stack web developer with experience in JavaScript, React,
-                Redux, Ruby on Rails, and multiple CSS frameworks. I discovered
-                web-development as a marketing manager when I was tasked to
-                design our company’s website, and since then I've been
-                interested in learning how to create and design visually
-                compelling websites.
-              </p>
+                Redux, Ruby on Rails, and multiple HTML/CSS frameworks.
+              </h5>
               <div class="row">
                 <div class="col col-xs-12 col-sm-12 col-md-12 text-center">
                   <a
