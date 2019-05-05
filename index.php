@@ -273,10 +273,10 @@
                       Developed executive-level business cases for prospective clients generating $24 million in revenue.
                       <br /><br />
 
-                      Authored six globally distributed white-papers demonstrating and quantifying the value of software service and support offerings,
+                      Authored six globally distributed white-papers demonstrating and quantifying the value of software service and support offerings.
                       <br /><br />
 
-                      Created a value-driven RFP adopted by 80% of North American account executives for its ability to better secure contracts
+                      Created a value-driven RFP adopted by 80% of North American account executives for its ability to better secure contracts.
                     </p>
                   </div>
                 </li>
@@ -596,19 +596,19 @@
                         Allows users to create posts, which can be up and down
                         voted, and sorted by popularity.
                         <br /><br />
-                        - Utilized Oath with Google's API to afford a proven,
-                        standardized authentication process with minimal setup
+                        Utilized Oath with Google's API to afford a proven,
+                        standardized authentication process with minimal setup.
                         <br /><br />
-                        - Implemented a React JS front-end framework for its
+                        Implemented a React JS front-end framework for its
                         ability to create great looking UIs with a high-degree
-                        of code-reusability
+                        of code-reusability.
                         <br /><br />
-                        - Added Redux to ensure predictable application state
-                        management and updates
+                        Added Redux to ensure predictable application state
+                        management and updates.
                         <br /><br />
-                        - Created a Rails API backend to leverage a RESTful API
+                        Created a Rails API backend to leverage a RESTful API
                         that easily integrates with other third-party services
-                        across the stack
+                        across the stack.
                       </p>
                       <button
                         data-dismiss="modal"
@@ -675,12 +675,12 @@
                         React application accessing Google's API and returning a
                         search query's results into a video player
                         <br /><br />
-                        - Installed Axios to leverage library's ability to
-                        easily make HTTP requests to APIs
+                        Installed Axios to leverage library's ability to
+                        easily make HTTP requests to APIs.
                         <br /><br />
-                        - Efficiently managed application state internally with
+                        Efficiently managed application state internally with
                         React thereby forgoing unnecessary complex code from a
-                        third-party library
+                        third-party library.
                       </p>
                       <button
                         data-dismiss="modal"
@@ -747,8 +747,8 @@
                         JavaScript application that communicates with GitHub's
                         API to return a queried user's profile and repositories
                         <br /><br />
-                        - Created exclusively with JavaScript to strengthen
-                        competence with language
+                        Created exclusively with JavaScript to strengthen
+                        competence with language.
                       </p>
                       <button
                         data-dismiss="modal"
