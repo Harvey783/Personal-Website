@@ -276,7 +276,7 @@
                       Authored six globally distributed white-papers demonstrating and quantifying the value of software service and support offerings,
                       <br /><br />
 
-                      Created a value-driven RFP adopted by 80% of North American account executives for its ability to better secure contracts See less
+                      Created a value-driven RFP adopted by 80% of North American account executives for its ability to better secure contracts
                     </p>
                   </div>
                 </li>
