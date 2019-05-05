@@ -150,6 +150,8 @@ a {
       border-radius: 50%; }
   #about #intro-div {
     padding: 30px 0; }
+    #about #intro-div .text-center {
+      font-size: 18px !important; }
     #about #intro-div ul {
       padding: 0 5px;
       margin-top: 85px; }
@@ -164,7 +166,7 @@ a {
     #about #intro-div p {
       padding: 0 5%;
       margin: 32px 0;
-      font-size: 18px; }
+      font-size: 18px !important; }
     #about #intro-div .btn {
       width: 180px;
       height: auto;
