@@ -128,7 +128,6 @@
       <div class="container">
         <div class="row">
           <div class="col col-md-12">
-            <!-- Profile Picture [Square] -->
             <div id="profile" class="center-block">
               <img src="images/chris-pic.png" />
             </div>
@@ -149,10 +148,10 @@
                   ></a>
                 </li>
               </ul>
-              <h5 class="text-center">
+              <p class="text-center">
                 Full stack web developer with experience in JavaScript, React,
                 Redux, Ruby on Rails, and multiple HTML/CSS frameworks.
-              </h5>
+              </p>
               <div class="row">
                 <div class="col col-xs-12 col-sm-12 col-md-12 text-center">
                   <a
