@@ -155,8 +155,8 @@
               <div class="row">
                 <div class="col col-xs-12 col-sm-12 col-md-12 text-center">
                   <a
-                    href="images/FLATIRON-RESUME.pdf"
-                    download="FLATIRON-RESUME.pdf"
+                    href="images/Chris-Harvey-Resume"
+                    download="Chris-Harvey-Resume.pdf"
                     class="btn waves-effect waves-light btn-primary custom-btn"
                     >Resume</a
                   >
