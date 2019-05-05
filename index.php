@@ -217,9 +217,7 @@
 
                     <!-- Job Summary -->
                     <p class="content-p">
-                      Leveraged knowledge gained from articulating complex
-                      trading strategies to achieve a total return of
-                      approximately 400% trading equity futures and options.
+                    Leveraged knowledge gained researching complex trading strategies at previous employer to achieve a total return of approximately 400% trading equity futures and options.
                     </p>
                   </div>
                 </li>
@@ -240,16 +238,15 @@
 
                     <!-- Job Summary -->
                     <p class="content-p">
-                      Responsible for positioning and messaging, marketing and
-                      sales collateral, and website design and development.
+                    Responsible primarily for the messaging of investment strategies as well as creating marketing and sales collateral.
 
                       <br /><br />
                       Designed mobile-ready, multimedia website easily
                       maintained by internal personnel.
                       <br /><br />
 
-                      Wrote multiple product whitepapers featured on
-                      industry-related websites.
+                      Wrote multiple product white-papers featured on
+                      industry websites.
                       <br /><br />
 
                       Implemented customer relationship and sales management
@@ -278,18 +275,13 @@
                       American software services and support.
 
                       <br /><br />
-                      Developed executive-level business cases generating $24
-                      million in revenue.
+                      Developed executive-level business cases for prospective clients generating $24 million in revenue.
                       <br /><br />
 
-                      Authored six globally distributed whitepapers
-                      demonstrating quantifying the value of service and support
-                      offerings.
+                      Authored six globally distributed white-papers demonstrating and quantifying the value of software service and support offerings,
                       <br /><br />
 
-                      Implemented customer relationship and Created value-driven
-                      RFP adopted by 80% of account executives for its ability
-                      to secure contracts.
+                      Created a value-driven RFP adopted by 80% of North American account executives for its ability to better secure contracts See less
                     </p>
                   </div>
                 </li>
