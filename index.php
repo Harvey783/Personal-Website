@@ -338,8 +338,8 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Research<span>80%</span></p>
-                <div class="progress skill-progress" data-percent="80%">
+                <p>Research<span>95%</span></p>
+                <div class="progress skill-progress" data-percent="95%">
                   <div class="determinate skill-determinate">
                     <i
                       class="skill-determinate-circle fa fa-circle"
