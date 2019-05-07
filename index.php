@@ -149,8 +149,7 @@
                 </li>
               </ul>
               <p class="text-center">
-                Full stack web developer with experience in JavaScript, React,
-                Redux, Ruby on Rails, and multiple HTML/CSS frameworks.
+              Web designer and developer with marketing experience demonstrating an ability to design and create content that drives revenue. I'm confident this bottom-line perspective along with my technical skills can help create websites that are not only attractive and engaging but that also drive revenue and promote growth. 
               </p>
               <div class="row">
                 <div class="col col-xs-12 col-sm-12 col-md-12 text-center">
