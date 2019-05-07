@@ -149,12 +149,12 @@
                 </li>
               </ul>
               <p class="text-center">
-              Web designer and developer with marketing experience demonstrating an ability to design and create content that drives revenue. I'm confident this bottom-line perspective along with my technical skills can help create websites that are not only attractive and engaging but that also drive revenue and promote growth. 
+              Full stack web developer skilled in JavaScript, React, Redux, Ruby on Rails, and multiple CSS frameworks with marketing experience demonstrating an ability to create and design content that drives revenue. I'm confident this bottom-line perspective along with my technical skills can help create websites that are not only attractive and engaging but that also drive revenue and promote growth.
               </p>
               <div class="row">
                 <div class="col col-xs-12 col-sm-12 col-md-12 text-center">
                   <a
-                    href="https://www.dropbox.com/s/3d7odgr2i0zcg9j/Christopher.Harvey.Resume.pdf?dl=0"
+                    href="https://www.dropbox.com/s/aew6fqze7csuk7a/Christopher.Harvey.Resume.pdf?dl=0"
                     download="Christopher Harvey Resume.pdf"
                     class="btn waves-effect waves-light btn-primary custom-btn"
                     >Resume</a
