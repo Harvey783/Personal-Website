@@ -319,7 +319,7 @@
               <h5 class="text-center skill-title">Professional</h5>
 
               <div class="skill-progress-div">
-                <p>Marketing/Sales Communications<span>90%</span></p>
+                <p>Marketing/Sales Collateral<span>90%</span></p>
                 <div class="progress skill-progress" data-percent="90%">
                   <div class="determinate skill-determinate">
                     <i
