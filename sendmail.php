@@ -14,12 +14,13 @@
             $mail->isSMTP();                                    
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;                            
-            $mail->Username = 'chharvey@gmail.com';                
-            $mail->Password = 'pyzxkzmranbcniwh';                          
+            $mail->Username = 'cwaharvey@gmail.com';                
+            $mail->Password = 'vblluzezxatejkzp';
+            // 'pyzxkzmranbcniwh'                      
             $mail->SMTPSecure = 'tsl';                           
             $mail->Port = 587;                                   
-            $mail->setFrom('chharvey@gmail.com');
-            $mail->addAddress('chharvey@gmail.com');     
+            $mail->setFrom('cwaharvey@gmail.com');
+            $mail->addAddress('cwaharvey@gmail.com');     
             $mail->addReplyTo($email, $name);
             $mail->isHTML(true);                                  
             $mail->Subject = 'New Contact Form Message';
