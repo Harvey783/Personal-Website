@@ -154,7 +154,7 @@
               <div class="row">
                 <div class="col col-xs-12 col-sm-12 col-md-12 text-center">
                   <a
-                    href="https://www.dropbox.com/s/aew6fqze7csuk7a/Christopher.Harvey.Resume.pdf?dl=0"
+                    href="https://www.dropbox.com/s/65r4pntv6tpae2n/Christopher.Harvey.Resume.pdf?dl=0"
                     download="Christopher Harvey Resume.pdf"
                     class="btn waves-effect waves-light btn-primary custom-btn"
                     >Resume</a
@@ -786,7 +786,7 @@
                 <br />
                 <li>
                   <i class="ion-email center-block"></i>
-                  <span>chharvey@gmail.com</span>
+                  <span>cwaharvey@gmail.com</span>
                 </li>
                 <br />
                 <li>
