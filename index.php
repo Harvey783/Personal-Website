@@ -573,7 +573,7 @@
                     <!-- Modal Image -->
                     <img
                       class="img-responsive col-md-8 col-sm-12 col-xs-12"
-                      src="images/redditer.png"
+                      src="images/SaySomething.png"
                       alt=""
                     />
                     <!-- Modal Content -->
