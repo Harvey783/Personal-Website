@@ -547,7 +547,7 @@
                   <!-- Portfolio Image -->
                   <img
                     class="img-responsive"
-                    src="images/redditer.png"
+                    src="images/SaySomething.png"
                     alt=""
                   />
                   <!-- open-modal ID -->
@@ -557,7 +557,7 @@
                 </figure>
                 <!-- Portfolio Title -->
                 <h6 class="text-capitalize text-center">
-                  Redditer
+                  SaySomething
                 </h6>
               </div>
             </div>
@@ -567,7 +567,7 @@
               <div class="modal-dialog modal-lg">
                 <div class="modal-content animated zoomIn">
                   <h3 class="text-capitalize text-left">
-                    Redditer
+                    SaySomething
                   </h3>
                   <div class="row">
                     <!-- Modal Image -->
@@ -580,20 +580,19 @@
                     <div class="content col-md-4 col-sm-12 col-xs-12">
                       <p>
                         <span>Code:&nbsp;</span>
-                        <a href="https://github.com/Harvey783/Redditer"
+                        <a href="https://github.com/Harvey783/EMNReact"
                           >GitHub</a
                         >
                       </p>
                       <p>
-                        <span>Walkthrough:&nbsp;</span>
+                        <span>Demo:&nbsp;</span>
                         <a
-                          href="https://www.youtube.com/watch?v=c8cpuXLDb7s&feature=youtu.be"
-                          >YouTube</a
+                          href="https://emnreact.herokuapp.com/"
+                          >Heroku</a
                         >
                       </p>
                       <p class="text-left">
-                        Allows users to create posts, which can be up and down
-                        voted, and sorted by popularity.
+                        A Reddit-like app, which allows users to create posts, up and downvote, and comment on them as well.
                         <br /><br />
                         Utilized Oath with Google's API to afford a proven,
                         standardized authentication process with minimal setup.
@@ -605,9 +604,7 @@
                         Added Redux to ensure predictable application state
                         management and updates.
                         <br /><br />
-                        Created a Rails API backend to leverage a RESTful API
-                        that easily integrates with other third-party services
-                        across the stack.
+                        Created an API backend utilizing Mongoose, Express, and Node. 
                       </p>
                       <button
                         data-dismiss="modal"
