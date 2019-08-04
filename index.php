@@ -154,7 +154,7 @@
               <div class="row">
                 <div class="col col-xs-12 col-sm-12 col-md-12 text-center">
                   <a
-                    href="https://www.dropbox.com/s/65r4pntv6tpae2n/Christopher.Harvey.Resume.pdf?dl=0"
+                    href="https://www.dropbox.com/s/hem0kn3gaje77bz/Christopher.Harvey.Resume.pdf?dl=0"
                     download="Christopher Harvey Resume.pdf"
                     class="btn waves-effect waves-light btn-primary custom-btn"
                     >Resume</a
