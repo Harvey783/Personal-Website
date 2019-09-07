@@ -118,7 +118,7 @@
       <div id="intro" class="container">
         <h1 class="text-center text-capitalize">Christopher Harvey</h1>
         <h4 class="text-center text-capitalize">
-          Fullstack Web Designer & Developer
+          Front-end Developer
         </h4>
       </div>
     </div>
@@ -149,7 +149,7 @@
                 </li>
               </ul>
               <p class="text-center">
-              Full stack web developer skilled in JavaScript, React, Redux, Ruby on Rails, and multiple HTML/CSS frameworks with marketing experience demonstrating an ability to create and design content that drives revenue. I'm confident this bottom-line perspective along with my technical skills can help create products and technologies that are not only attractive and engaging but that also drive revenue and promote growth.
+              Front-end web developer skilled in Express, MongoDB, Node, JavaScript, React, Redux, Ruby on Rails, and multiple HTML/CSS frameworks with marketing experience demonstrating an ability to create content that drives revenue. I'm confident this bottom-line perspective along with my technical skills can help create products and technologies that are not only attractive and engaging but that also drive revenue and promote growth.
               </p>
               <div class="row">
                 <div class="col col-xs-12 col-sm-12 col-md-12 text-center">
@@ -358,7 +358,7 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Photoship<span>80%</span></p>
+                <p>Photoshop<span>80%</span></p>
                 <div class="progress skill-progress" data-percent="80%">
                   <div class="determinate skill-determinate">
                     <i
@@ -490,7 +490,7 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Rails<span>75%</span></p>
+                <p>Ruby on Rails<span>75%</span></p>
                 <div class="progress skill-progress" data-percent="75%">
                   <div class="determinate skill-determinate">
                     <i
@@ -516,7 +516,7 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>HTML & CSS Frameworks<span>90%</span></p>
+                <p>HTML & CSS<span>90%</span></p>
                 <div class="progress skill-progress" data-percent="90%">
                   <div class="determinate skill-determinate">
                     <i
