@@ -1,4 +1,5 @@
 <?php 
+// Test
     require('phpmailer/PHPMailerAutoload.php');
     
     $mailto = 'chharvey@gmail.com';
