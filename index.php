@@ -345,7 +345,7 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Website Design<span>85%</span></p>
+                <p>Project Management<span>85%</span></p>
                 <div class="progress skill-progress" data-percent="85%">
                   <div class="determinate skill-determinate">
                     <i
