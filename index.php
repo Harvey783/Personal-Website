@@ -319,7 +319,7 @@
               <h5 class="text-center skill-title">Professional</h5>
 
               <div class="skill-progress-div">
-                <p>Marketing/Sales Collateral<span>90%</span></p>
+                <p>Creating Collateral<span>90%</span></p>
                 <div class="progress skill-progress" data-percent="90%">
                   <div class="determinate skill-determinate">
                     <i
@@ -358,8 +358,8 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Photoshop<span>80%</span></p>
-                <div class="progress skill-progress" data-percent="80%">
+                <p>Writing<span>90%</span></p>
+                <div class="progress skill-progress" data-percent="90%">
                   <div class="determinate skill-determinate">
                     <i
                       class="skill-determinate-circle fa fa-circle"
