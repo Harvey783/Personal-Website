@@ -149,7 +149,7 @@
                 </li>
               </ul>
               <p class="text-center">
-              Full-stack web developer skilled in HTML/CSS, Express, MongoDB, Node, JavaScript, React, Redux, and Ruby on Rails with marketing experience creating an array of content and collateral for complex products and services in unique industries.
+              Full-stack web developer skilled in HTML/CSS, Express, MongoDB, Node, JavaScript, React, Redux, and Ruby on Rails with marketing experience that demonstrates the ability to create diverse content for complex products and services in unique industries.
               </p>
               <div class="row">
                 <div class="col col-xs-12 col-sm-12 col-md-12 text-center">
