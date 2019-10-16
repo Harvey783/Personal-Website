@@ -490,7 +490,7 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Ruby on Rails<span>75%</span></p>
+                <p>Ruby on Rails<span>80%</span></p>
                 <div class="progress skill-progress" data-percent="75%">
                   <div class="determinate skill-determinate">
                     <i
@@ -503,7 +503,7 @@
                 </div>
               </div>
               <div class="skill-progress-div">
-                <p>Redux<span>75%</span></p>
+                <p>NodeJS<span>75%</span></p>
                 <div class="progress skill-progress" data-percent="75%">
                   <div class="determinate skill-determinate">
                     <i
